@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06306036-199a-4c3b-9b1c-04805705e6c2" name="Changes" comment="nov13">
-      <change afterPath="$PROJECT_DIR$/face_recogcapture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face_recognition_moduleV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCTV_APPVer3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,18 +47,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.CCTV_APPVer2.executor": "Run",
+    "Python.CCTV_APPVer3.executor": "Run",
     "Python.Picture_capture.executor": "Run",
     "Python.face_recogcapture.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/AlwinPalma/PycharmProjects/ImprovedCCTV/Picture_capture.onefile-build"
+    "last_opened_file_path": "C:/Users/AlwinPalma/PycharmProjects/ImprovedCCTV",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\AlwinPalma\PycharmProjects\ImprovedCCTV\Picture_capture.onefile-build" />
       <recent name="C:\Users\AlwinPalma\PycharmProjects\ImprovedCCTV" />
+      <recent name="C:\Users\AlwinPalma\PycharmProjects\ImprovedCCTV\Picture_capture.onefile-build" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\AlwinPalma\PycharmProjects\ImprovedCCTV" />
@@ -97,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731497654937</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="nov13">
+      <option name="closed" value="true" />
+      <created>1731506353172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731506353172</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
